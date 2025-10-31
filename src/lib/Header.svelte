@@ -97,4 +97,22 @@
     <span>Twitter Community</span>
     <span class="sr-only">Share page and join the Pixel Art community on Twitter</span>
   </a>
+<div class="twitter-row" aria-hidden={false}>
+  <a
+    class="twitter-btn"
+    href="https://pump.fun"
+    target="_blank"
+    rel="noopener noreferrer"
+    role="link"
+    aria-label="Open pump.fun in a new tab"
+  >
+    <svg class="twitter-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" aria-hidden="true" width="16" height="16" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M18 13v6a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+      <polyline points="15 3 21 3 21 9"/>
+      <line x1="10" y1="14" x2="21" y2="3"/>
+    </svg>
+    <span>pump.fun</span>
+    <span class="sr-only">Open pump.fun in a new tab</span>
+  </a>
+</div>
 </div>
