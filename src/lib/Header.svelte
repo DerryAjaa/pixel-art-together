@@ -86,7 +86,7 @@
 <div class="twitter-row" aria-hidden={false}>
   <a
     class="twitter-btn"
-    href="#"
+    href="https://x.com/i/communities/1984283478868074699"
     onclick="window.open('https://twitter.com/intent/tweet?text='+encodeURIComponent('SOLBLOCK the pixel art on pumpfun')+'&url='+encodeURIComponent(window.location.href), '_blank', 'noopener'); return false;"
     role="button"
     aria-label="Share and join the Pixel Art community on Twitter"
