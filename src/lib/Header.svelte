@@ -100,7 +100,7 @@
 <div class="twitter-row" aria-hidden={false}>
   <a
     class="twitter-btn"
-    href="https://pump.fun"
+    href="https://pump.fun/coin/DqrQdv2PCRbvo6QbddE9DAyFMZys9poMepSiq4Tmpump"
     target="_blank"
     rel="noopener noreferrer"
     role="link"
